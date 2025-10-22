@@ -2,8 +2,6 @@
 ## Nome Progetto: Da decidere
 
 ## Table of Contents
-
-## Table of Contents
 1. [Introduzione](#1-introduzione)
 2. [Obbiettivi del progetto](#2-obbiettivi-del-progetto)
 3. [Struttura del repository (work in progress)](#3-struttura-del-repository-work-in-progress)
